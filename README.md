@@ -147,11 +147,11 @@
 
 [Тест-кейсы на кнопку «Забронировать»](https://docs.google.com/spreadsheets/d/1eHAuLfuoe1CdHAw81Dk8FOAvniHXrqaqUDuRDCwSj5I/edit#gid=1567345705)
 
-#### Задача 
+#### Задача (использовать программу Charles)
 
 [Чек-лист на аэротакси](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
-[Использовать программу Charles для тестирования приложения в момент,когда бэкэнд еще не готов(скрины)]([https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing](https://drive.google.com/drive/u/0/folders/10x1a3NHcmvAMzLSbbJu0RODYpdPKEKrK))
+[Использовать программу Charles для тестирования приложения в момент,когда бэкэнд еще не готов(скрины)](https://drive.google.com/drive/u/0/folders/10x1a3NHcmvAMzLSbbJu0RODYpdPKEKrK)
 
 <details>
  <summary> Баг-репорты </summary>
