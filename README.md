@@ -122,32 +122,32 @@
 
 ## Процесс работы
 
-### <summary> 1-спринт </summary>
+### 1 спринт
 
-#### Задача 1 (планирование тестирования)
+#### Задача (планирование тестирования)
 
 **Техники-тест дизайна**  
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
 
 [Выделить классы эквивалентности и граничные значения](https://docs.google.com/spreadsheets/d/1a7xCH-hiDg5gof1DFXGyqF38v6SESWFj-uxrdOIuhQE/edit#gid=1304990855)
 
-#### Задача 2 (проектирование тестовой документации)
+#### Задача (проектирование тестовой документации)
 
 [Создать набор тест-кейсов на проверку валидации полей формы Яндекс Маршрутов](https://docs.google.com/spreadsheets/d/1a7xCH-hiDg5gof1DFXGyqF38v6SESWFj-uxrdOIuhQE/edit#gid=1524919368)
 
-### <summary> 2-спринт </summary>
+### 2 спринт
 
-#### Задача 1 (проектирование тестовой документации)
+#### Задача (проектирование тестовой документации)
 
 [Чек лист верстки](https://docs.google.com/spreadsheets/d/1eHAuLfuoe1CdHAw81Dk8FOAvniHXrqaqUDuRDCwSj5I/edit#gid=528790199)
 
-#### Задача 2 (проектирование тестовой документации)
+#### Задача (проектирование тестовой документации)
 
 [Чек-лист «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/1eHAuLfuoe1CdHAw81Dk8FOAvniHXrqaqUDuRDCwSj5I/edit#gid=1540435533)
 
 [Тест-кейсы на кнопку «Забронировать»](https://docs.google.com/spreadsheets/d/1eHAuLfuoe1CdHAw81Dk8FOAvniHXrqaqUDuRDCwSj5I/edit#gid=1567345705)
 
-#### Задача 3
+#### Задача 
 
 [Чек-лист на аэротакси](https://docs.google.com/spreadsheets/d/1S4wbEp-A4GOz2zPZErLpfbiijYtsmvR8DTCOM3-fVY0/edit?usp=sharing)
 
